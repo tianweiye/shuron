@@ -16,7 +16,7 @@
 
 ## モデルの構造
 
-![image-20220323163044550](/Users/tianweiye/Library/Application%20Support/typora-user-images/image-20220323163044550.png)
+![image-20220323163044550](results/LVAEmodel.png)
 
 提案手法の構造を図に示す．特徴抽出部は，図 3.4 に示すように，2.1.2 節で示した LVAE[1,2] と，3D 畳み込みエンコーダ・デコーダか らなる. 予測部は，ノード数が 36,36,1である 2 層の多層パーセプトロン (MLP) からなる.
 
