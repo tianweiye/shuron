@@ -52,5 +52,7 @@
 ## 参考文献
 
 [1] 田偉業(2022), "動的心臓形状・生活習慣情報に基づく虚血性心疾患診断システムの構築", 九州大学 システム情報科学研究院 情報知能工学部門修士論文 (未公刊資料)
+
 [2] CK Sønderby, T Raiko, L Maaløe, SK Sønderby, O Winther. Ladder Variational Autoencoders, NIPS 2016
+
 [3] 田 偉業, 宮内 翔子, 諸岡 健一, 倉爪 亮 ,"Ladder Variational Autoencoderを用いた動的心臓形状の特徴量抽出",第40回SICE九州支部学術講演会, 2021
